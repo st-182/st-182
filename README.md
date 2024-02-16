@@ -3,11 +3,16 @@
 
 <h3 align="left">⌨️ Languages and Tools ⌨️</h3>
 <p style="display:grid; grid-template-columns:repeat(10,1fr); gap:20px; background:rgba(255,255,255,0.07); border-radius:1rem; padding: 1rem;">
-<a href="https://www.php.net/" target="_blank" rel="noreferrer" style="; justify-self:center; display:flex; "> <img src="https://www.php.net/images/logos/php-logo.svg"  style="align-self:center; jus" alt="docker" width="40" height="40"/>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer" style="; justify-self:center; display:flex; ">
+  <img src="https://www.php.net/images/logos/php-logo-white.svg"  style="align-self:center; jus" alt="docker" width="40" height="40"/>
 </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-</a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+</a>
+<a href="https://www.elastic.co/" target="_blank" rel="noreferrer">
+<img src="https://miro.medium.com/v2/resize:fit:700/1*fYzWXRMv8Y0OGuqOV8amFA.png" alt="elastic search" width="40" height="40"/>
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">  
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </a> <a href="https://graphql.org" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
