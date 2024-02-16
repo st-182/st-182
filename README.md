@@ -28,7 +28,7 @@
 </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
 <img src="https://nestjs.com/logo-small.ede75a6b.svg" alt="nestjs" width="40" height="40"/>
 </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+<img src="https://cdn.sanity.io/images/3do82whm/next/4b1f008289a88f4438a1c983fb32cf1a636d9d0e-1000x667.png?w=720&h=480&fit=clip&auto=format" alt="nextjs" width="40" height="40"/>
 </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
 </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
