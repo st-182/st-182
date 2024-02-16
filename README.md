@@ -10,7 +10,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 </a>
 <a href="https://www.elastic.co/" target="_blank" rel="noreferrer">
-<img src="https://miro.medium.com/v2/resize:fit:700/1*fYzWXRMv8Y0OGuqOV8amFA.png" alt="elastic search" width="40" height="40"/>
+<img src="https://www.nuget.org/profiles/elasticsearch/avatar?imageSize=512" alt="elastic search" width="40" height="40"/>
 </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">  
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
