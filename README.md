@@ -51,6 +51,10 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=st-182&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
+### 📈 My LeetCode stats 📈
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/st-182?theme=light&font=Electrolize&ext=activity)
+
 ### 🪙 Living expenses 🪙
 
 <p>If you like what I'am doing, => <a style="margin:0 1rem; background-color: black; color: white; border: none; padding: 10px 20px; font-size: 16px; font-weight: bold; text-transform: uppercase; letter-spacing: 1px; border-radius: 5px; box-shadow: 0 0 10px rgba(0, 255, 255, 0.8), 0 0 20px rgba(0, 255, 255, 0.6), 0 0 30px rgba(0, 255, 255, 0.4); text-shadow: 0 0 5px rgba(0, 255, 255, 0.8);box-shadow: 0 0 10px #00ffff, 
