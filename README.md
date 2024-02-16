@@ -49,12 +49,12 @@
 
 ### 📈 My github stats 📈
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=st-182&show_icons=true&theme=gotham" alt="abhisheknaiidu" /></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=st-182&show_icons=true&theme=gotham" alt="st-182" /></p>
 
 ### 📈 My LeetCode stats 📈
 
 <p align="center"> 
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/st-182?theme=dark&font=Electrolize&ext=activity)  
+  <img src="https://leetcard.jacoblin.cool/st-182?theme=dark&font=Electrolize&ext=activity" alt="st-182" />
 </p>
 
 ### 🪙 Living expenses 🪙
