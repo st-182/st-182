@@ -53,7 +53,9 @@
 
 ### 📈 My LeetCode stats 📈
 
-<p align="center"> ![LeetCode Stats](https://leetcard.jacoblin.cool/st-182?theme=dark&font=Electrolize&ext=activity)</p>
+<p align="center"> 
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/st-182?theme=dark&font=Electrolize&ext=activity)  
+</p>
 
 ### 🪙 Living expenses 🪙
 
